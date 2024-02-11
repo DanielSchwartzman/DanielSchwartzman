@@ -5,11 +5,10 @@
 <div align="center">-Currently looking for software engineer student positions in Israel</div>   
 
 <br/>  
+ 
+## Main Skill Set:
 
-## My Skill Set  
-### Programming Languages and Frameworks:
-
-<div align="center">   
+<div align="center"> 
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a> 
