@@ -1,10 +1,12 @@
 ### **<div align="center">Hi, I'm Daniel Schwartzman.</div>**  
 
-<div align="center">-Third year Computer Science student at Afeka College of Engineering.</div>  
-
-<div align="center">-Currently looking for software engineer student positions in Israel</div>   
+<div align="center">-Computer Science graduate from Afeka College of Engineering in Tel-Aviv.</div>  
 
 <br/>  
+
+<div align="center"> 
+<p>Currently looking for Junior/Intern software engineer positions in Israel/Remote</p>
+</div>
  
 ## Main Skill Set:
 
